@@ -1,0 +1,15 @@
+"D:\iar\arm\bin\armproc.dll" 
+
+"D:\iar\arm\bin\armjlink2.dll" 
+
+"F:\Embeded Study\HungBX_MCP_MOCK\project\Debug\Exe\MOCK_Project.out" 
+
+--plugin="D:\iar\arm\bin\armbat.dll" 
+
+--device_macro="D:\iar\arm\config\debugger\NXP\KLxx.dmac" 
+
+--flash_loader="D:\iar\arm\config\flashloader\NXP\FlashKLxx256K.board" 
+
+
+
+

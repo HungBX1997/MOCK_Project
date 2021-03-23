@@ -1,0 +1,19 @@
+DRIVER_i2c.pbi: D:\iar\arm\inc\c\DLib_Product_stdlib.h \
+  D:\iar\arm\inc\c\ycheck.h D:\iar\arm\inc\c\ysizet.h \
+  D:\iar\arm\inc\c\stdlib.h D:\iar\arm\inc\c\assert.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\driver\gpio\HAL_gpio\HAL_gpio.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\device\board.h \
+  D:\iar\arm\inc\c\stdbool.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\driver\port\HAL_port\HAL_port.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\driver\i2c\HAL_i2c\HAL_i2c.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\MKL46Z\system_MKL46Z4.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\CMSIS\Include\core_cmFunc.h \
+  D:\iar\arm\inc\c\iccarm_builtin.h D:\iar\arm\inc\c\cmsis_iar.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\CMSIS\Include\core_cmInstr.h \
+  D:\iar\arm\inc\c\DLib_Product.h D:\iar\arm\inc\c\DLib_Config_Normal.h \
+  D:\iar\arm\inc\c\DLib_Defaults.h D:\iar\arm\inc\c\yvals.h \
+  D:\iar\arm\inc\c\stdint.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\CMSIS\Include\core_cm0plus.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\MKL46Z\MKL46Z4.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\driver\i2c\Driver_i2c\DRIVER_i2c.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\driver\i2c\Driver_i2c\DRIVER_i2c.c

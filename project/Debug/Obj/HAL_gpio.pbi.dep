@@ -1,0 +1,14 @@
+HAL_gpio.pbi: \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\driver\gpio\HAL_gpio\HAL_gpio.c \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\driver\gpio\HAL_gpio/HAL_gpio.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\MKL46Z\MKL46Z4.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\CMSIS\Include\core_cm0plus.h \
+  D:\iar\arm\inc\c\stdint.h D:\iar\arm\inc\c\ycheck.h \
+  D:\iar\arm\inc\c\yvals.h D:\iar\arm\inc\c\DLib_Defaults.h \
+  D:\iar\arm\inc\c\DLib_Config_Normal.h D:\iar\arm\inc\c\DLib_Product.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\CMSIS\Include/core_cmInstr.h \
+  D:\iar\arm\inc\c\cmsis_iar.h D:\iar\arm\inc\c/iccarm_builtin.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\CMSIS\Include/core_cmFunc.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\MKL46Z/system_MKL46Z4.h \
+  F:\Embeded\ Study\HungBX_MCP_MOCK\project\..\driver\port\HAL_port\HAL_port.h \
+  D:\iar\arm\inc\c\assert.h D:\iar\arm\inc\c\stdbool.h
